@@ -1,0 +1,7 @@
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Service\bin\Debug\eulei.com.MIS.Service.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Service\bin\Debug\eulei.com.MIS.Service.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Service\bin\Debug\eulei.com.MIS.Contracts.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Service\bin\Debug\eulei.com.MIS.Contracts.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Service\obj\Debug\eulei.com.MIS.Service.csprojResolveAssemblyReference.cache
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Service\obj\Debug\eulei.com.MIS.Service.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Service\obj\Debug\eulei.com.MIS.Service.pdb

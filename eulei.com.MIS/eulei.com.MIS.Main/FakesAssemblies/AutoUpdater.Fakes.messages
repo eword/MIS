@@ -1,0 +1,99 @@
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Checksums.Adler32 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Checksums.Crc32 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.ProcessDirectoryHandler 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.ProcessFileHandler 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.ProgressHandler 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.CompletedFileHandler 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.DirectoryFailureHandler 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.FileFailureHandler 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.StreamUtils 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassic 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassicCryptoBase 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassicEncryptCryptoTransform 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassicDecryptCryptoTransform 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassicManaged 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.Compression.DeflateStrategy 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.Compression.InflaterDynHeader 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.Compression.Streams.DeflaterOutputStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.Compression.Streams.InflaterInputStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.UseZip64 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.CompressionMethod 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.EncryptionAlgorithm 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.GeneralBitFlags 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipConstants 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.HostSystemID 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ITaggedDataFactory 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipExtraData 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.TestStrategy 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.TestOperation 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipTestResultHandler 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.FileUpdateMode 生成存根: 类型是一个值类型。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.IStaticDataSource 生成存根: method System.IO.Stream ICCEmbedded.SharpZipLib.Zip.IStaticDataSource.GetSource() unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.IDynamicDataSource 生成存根: method System.IO.Stream ICCEmbedded.SharpZipLib.Zip.IDynamicDataSource.GetSource(ICCEmbedded.SharpZipLib.Zip.ZipEntry entry, System.String name) unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.StaticDiskDataSource 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.DynamicDiskDataSource 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.IArchiveStorage 生成存根: method System.IO.Stream ICCEmbedded.SharpZipLib.Zip.IArchiveStorage.ConvertTemporaryToFinal() unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.BaseArchiveStorage 生成存根: method System.IO.Stream ICCEmbedded.SharpZipLib.Zip.BaseArchiveStorage.ConvertTemporaryToFinal() unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.DiskArchiveStorage 生成存根: method System.IO.Stream ICCEmbedded.SharpZipLib.Zip.BaseArchiveStorage.ConvertTemporaryToFinal() unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.MemoryArchiveStorage 生成存根: method System.IO.Stream ICCEmbedded.SharpZipLib.Zip.BaseArchiveStorage.ConvertTemporaryToFinal() unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.EntryPatchData 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipHelperStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipOutputStream 生成存根: 类型不受支持，因为它不可用或已在版本之间更改。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.Program 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.Properties.Resources 生成存根: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.Properties.Settings 生成存根: 类型已密封。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 <PrivateImplementationDetails>{F8C6B21C-E61F-4266-AD67-650361CCDA4F} 生成存根: 类型不受支持，因为存在于内部限制。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Checksums.IChecksum 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.ProcessDirectoryHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.ProcessFileHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.ProgressHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.CompletedFileHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.DirectoryFailureHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.FileFailureHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.INameTransform 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Core.IScanFilter 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassicCryptoBase 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassicEncryptCryptoTransform 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Encryption.PkzipClassicDecryptCryptoTransform 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.Compression.DeflateStrategy 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.Compression.DeflaterHuffman+Tree 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.Compression.InflaterDynHeader 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.FastZip+ConfirmOverwriteDelegate 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.FastZip+Overwrite 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.IEntryFactory 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.UseZip64 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.CompressionMethod 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.EncryptionAlgorithm 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.GeneralBitFlags 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.HostSystemID 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipEntry+Known 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipEntryFactory+TimeSetting 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ITaggedData 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ExtendedUnixData+Flags 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ITaggedDataFactory 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.TestStrategy 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.TestOperation 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipTestResultHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.FileUpdateMode 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+HeaderTest 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+KeysRequiredEventHandler 生成填充码: 类型是一个委托。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+PartialInputStream 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+UncompressedStream 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+UpdateCommand 生成填充码: 类型是一个枚举。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+UpdateComparer 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+ZipEntryEnumerator 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+ZipString 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipFile+ZipUpdate 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.IStaticDataSource 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.IDynamicDataSource 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.StaticDiskDataSource 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.DynamicDiskDataSource 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.IArchiveStorage 生成填充码: 类型是一个接口。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.EntryPatchData 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 ICCEmbedded.SharpZipLib.Zip.ZipHelperStream 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.Program 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.UI.AlertWin+<>c__DisplayClass4 生成填充码: 类型不受支持，因为存在于内部限制。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.UI.DownFileProcess+<>c__DisplayClassc 生成填充码: 类型不受支持，因为存在于内部限制。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.Properties.Resources 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 eulei.com.AutoUpdater.Properties.Settings 生成填充码: 类型对 exported or assembly(AutoUpdater.Fakes) 不可见。
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Main\Fakes\AutoUpdater.fakes : warning : 无法为 <PrivateImplementationDetails>{F8C6B21C-E61F-4266-AD67-650361CCDA4F} 生成填充码: 类型不受支持，因为存在于内部限制。

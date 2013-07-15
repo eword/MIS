@@ -1,0 +1,6 @@
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.ClientConnection\bin\Debug\eulei.com.MIS.ClientConnection.dll.config
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.ClientConnection\bin\Debug\eulei.com.MIS.ClientConnection.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.ClientConnection\bin\Debug\eulei.com.MIS.ClientConnection.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.ClientConnection\obj\Debug\eulei.com.MIS.ClientConnection.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.ClientConnection\obj\Debug\eulei.com.MIS.ClientConnection.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.ClientConnection\obj\Debug\eulei.com.MIS.ClientConnection.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿  <connectionStrings>
+    <clear/>
+    <add name="LocalSqlServer" connectionString="Data Source=10.10.8.180;Initial Catalog=BootMemberShip;User ID=sa;password=abc.123" providerName="System.Data.SqlClient"/>
+    <add name="OraAspNetConString" connectionString="Data Source=10.10.8.180;Initial Catalog=BootMemberShip;User ID=sa;password=abc.123" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+  <system.web.extensions>
+    <scripting>
+      <webServices>
+        <authenticationService enabled="true" requireSSL="false"/>
+        <profileService enabled="true" readAccessProperties="WebSettingsTestText" writeAccessProperties="WebSettingsTestText"/>
+        <roleService enabled="true"/>
+      </webServices>
+    </scripting>
+  </system.web.extensions>
+
+
+
+
+
+      <profile enabled="true">
+      <properties>
+        <add name="WebSettingsTestText" type="string" readOnly="false" defaultValue="DefaultText" serializeAs="String" allowAnonymous="false"/>
+      </properties>
+    </profile>
+
+	/AppServices

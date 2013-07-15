@@ -1,0 +1,10 @@
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\bin\Debug\eulei.com.MIS.Host.exe
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\bin\Debug\eulei.com.MIS.Host.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\obj\Debug\eulei.com.MIS.Host.exe
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\obj\Debug\eulei.com.MIS.Host.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\bin\Debug\eulei.com.MIS.Host.exe.config
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\bin\Debug\eulei.com.MIS.Contracts.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\bin\Debug\eulei.com.MIS.Service.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\bin\Debug\eulei.com.MIS.Contracts.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\bin\Debug\eulei.com.MIS.Service.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Host\obj\Debug\eulei.com.MIS.Host.csprojResolveAssemblyReference.cache

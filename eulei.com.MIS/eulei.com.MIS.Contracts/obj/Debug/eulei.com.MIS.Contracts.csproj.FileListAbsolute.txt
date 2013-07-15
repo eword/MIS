@@ -1,0 +1,6 @@
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Contracts\bin\Debug\eulei.com.MIS.Contracts.dll.config
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Contracts\bin\Debug\eulei.com.MIS.Contracts.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Contracts\bin\Debug\eulei.com.MIS.Contracts.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Contracts\obj\Debug\eulei.com.MIS.Contracts.dll
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Contracts\obj\Debug\eulei.com.MIS.Contracts.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.Contracts\obj\Debug\eulei.com.MIS.Contracts.csprojResolveAssemblyReference.cache

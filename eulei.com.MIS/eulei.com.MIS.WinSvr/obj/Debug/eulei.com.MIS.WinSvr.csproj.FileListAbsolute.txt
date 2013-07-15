@@ -1,0 +1,5 @@
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.WinSvr\bin\Debug\eulei.com.MIS.WinSvr.exe
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.WinSvr\bin\Debug\eulei.com.MIS.WinSvr.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.WinSvr\obj\Debug\eulei.com.MIS.WinSvr.exe
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.WinSvr\obj\Debug\eulei.com.MIS.WinSvr.pdb
+F:\MISWinForm\eulei.com.MIS\eulei.com.MIS.WinSvr\obj\Debug\eulei.com.MIS.WinSvr.csprojResolveAssemblyReference.cache

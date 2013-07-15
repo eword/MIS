@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EULEI_MIS" Class="ModelDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=218.207.198.58,11338;Initial Catalog=EULEI_MIS;Persist Security Info=True;User ID=eulei" SettingsObjectName="eulei.com.MIS.Contracts.Properties.Settings" SettingsPropertyName="EULEI_MISConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ETB_COM" Member="ETB_COM">
+    <Type Name="ETB_COM">
+      <Column Name="COMID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="COMName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="COMEasyCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="COMOrder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ETB_COM_ETB_COMINFO" Member="ETB_COMINFO" ThisKey="COMID" OtherKey="COMID" Type="ETB_COMINFO" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ETB_COMINFO" Member="ETB_COMINFO">
+    <Type Name="ETB_COMINFO">
+      <Column Name="COMINFOID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="COMINFOName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOEasyCode" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOAddress" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="COMINFOPostalCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="COMINFOTEL" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="COMINFOFax" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="COMINFORemark" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="COMINFOCustomerServiceUnit" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOBusCustomerServiceUnit" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOCOMINFOOrder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="COMID" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+      <Association Name="ETB_COM_ETB_COMINFO" Member="ETB_COM" ThisKey="COMID" OtherKey="COMID" Type="ETB_COM" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EVW_COMINFO" Member="EVW_COMINFO">
+    <Type Name="EVW_COMINFO">
+      <Column Name="COMID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="COMName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="COMEasyCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="COMOrder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="COMINFOID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOEasyCode" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOAddress" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="COMINFOPostalCode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="COMINFOTEL" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="COMINFOFax" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="COMINFORemark" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="COMINFOCustomerServiceUnit" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOBusCustomerServiceUnit" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="COMINFOCOMINFOOrder" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

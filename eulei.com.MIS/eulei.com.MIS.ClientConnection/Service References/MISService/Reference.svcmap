@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2ca08f26-1de3-4513-940b-3d31b42e9d3e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55555/MISService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MISService.wsdl" MetadataType="Wsdl" ID="7311d9fc-0c67-4340-b869-3dd347ed9c4e" SourceId="1" SourceUrl="http://localhost:55555/MISService?wsdl=wsdl0" />
+    <MetadataFile FileName="MISService1.wsdl" MetadataType="Wsdl" ID="c855cd5b-f2a8-4dbe-84d2-3e47b515b53e" SourceId="1" SourceUrl="http://localhost:55555/MISService?wsdl" />
+    <MetadataFile FileName="MISService2.wsdl" MetadataType="Wsdl" ID="fc901c60-4dfb-4f8d-9af4-8a90d685e6da" SourceId="1" SourceUrl="http://localhost:55555/MISService?wsdl=wsdl1" />
+    <MetadataFile FileName="MISService.xsd" MetadataType="Schema" ID="2f1b233b-0988-41ac-871f-2450d8ed7751" SourceId="1" SourceUrl="http://localhost:55555/MISService?xsd=xsd1" />
+    <MetadataFile FileName="MISService1.xsd" MetadataType="Schema" ID="7f2c138f-3c5b-456b-9364-2c823448db8d" SourceId="1" SourceUrl="http://localhost:55555/MISService?xsd=xsd0" />
+    <MetadataFile FileName="MISService.disco" MetadataType="Disco" ID="4babd191-3c10-4f06-8386-87d946a11268" SourceId="1" SourceUrl="http://localhost:55555/MISService?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
